@@ -25,12 +25,12 @@ json('{"Accept":"application/json;odata=verbose","Content-Type":"application/jso
 When added sensitivity label ID for update it gives error
 Action 'Send_an_HTTP_request_to_SharePoint' failed: Column 'SensitivityLabelId' does not exist. It may have been deleted by another user.
 
+![Uploading image.png…](https://github.com/AlmasMahfooz/NotWorking/blob/main/SP4.png)
 
 
 
 
-
-
+--------------------------------------------------------------------------------------------------------------------------------
 links:
 https://learn.microsoft.com/en-us/sharepoint/dev/business-apps/power-automate/guidance/working-with-send-sp-http-request
-![Uploading image.png…]
+
