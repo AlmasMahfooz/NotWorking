@@ -13,15 +13,22 @@ Sensitivity/OData_DisplayName and SensitivityLabelName both contain the value of
 
 
 Tried Send an HTTP request to SharePoint but it seems it doesn't recognize the label fields.
+Header code
+
+json('{"Accept":"application/json;odata=verbose","Content-Type":"application/json;odata=verbose","X-HTTP-Method":"MERGE","IF-MATCH":"*"}')
+
 
 
 ![Uploading image.png…](https://github.com/AlmasMahfooz/NotWorking/blob/main/SP2.png)
 
 
-![Uploading image.png…]
+
+
+
 
 
 
 
 links:
 https://learn.microsoft.com/en-us/sharepoint/dev/business-apps/power-automate/guidance/working-with-send-sp-http-request
+![Uploading image.png…]
