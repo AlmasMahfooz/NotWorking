@@ -29,10 +29,10 @@ Action 'Send_an_HTTP_request_to_SharePoint' failed: Column 'SensitivityLabelId' 
 
 While searching for error, overall suggestion is that Sensitivity Labels fields are related to Purview and could be update through Microsoft Graph API's assignSensitivityLabel or Powershell.
 I also tried using Graph API POST action but still getting errors and someone somewhere mentioned that its usage is metered and need to enable something at the end of Microsoft Graph.
-Never tried Powershell solution, detail steps are explained in there [link ](https://sposcripts.com/assign-sensitivity-labels-in-sharepoint/)
+Never tried Powershell solution, detail steps are explained in [here ](https://sposcripts.com/assign-sensitivity-labels-in-sharepoint/)
 
 
 --------------------------------------------------------------------------------------------------------------------------------
 links:
-https://learn.microsoft.com/en-us/sharepoint/dev/business-apps/power-automate/guidance/working-with-send-sp-http-request
-https://sposcripts.com/assign-sensitivity-labels-in-sharepoint/
+[Working with send http request](https://learn.microsoft.com/en-us/sharepoint/dev/business-apps/power-automate/guidance/working-with-send-sp-http-request)
+
