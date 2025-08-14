@@ -22,6 +22,8 @@ json('{"Accept":"application/json;odata=verbose","Content-Type":"application/jso
 ![Uploading image.png…](https://github.com/AlmasMahfooz/NotWorking/blob/main/SP2.png)
 
 
+When added sensitivity label ID for update it gives error
+Action 'Send_an_HTTP_request_to_SharePoint' failed: Column 'SensitivityLabelId' does not exist. It may have been deleted by another user.
 
 
 
