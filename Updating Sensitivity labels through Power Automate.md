@@ -35,4 +35,4 @@ Never tried Powershell solution, detail steps are explained in [here ](https://s
 --------------------------------------------------------------------------------------------------------------------------------
 links:
 [Working with send http request](https://learn.microsoft.com/en-us/sharepoint/dev/business-apps/power-automate/guidance/working-with-send-sp-http-request)
-
+[Labels Assignment is metered](https://practical365.com/assignsensitivitylabel-api/?utm_source=sociabbleapp&utm_medium=social&utm_campaign=none&utm_term=sBvbtMCy2CCy&socid=sBvbtMCy2CCy)
